@@ -1,7 +1,5 @@
 # Social-Media-Recommendation
 
-# Credit-Card-Default-Classification
-
 # Tujuan Project
 1. Menganalisis jumlah view, like, komen, dan share dari influencer untuk membuat seorang konten kreator baru (0 followers dengan 0 likes) menjadi seorang mini influencer (15k followers dengan 800k likes) dalam kurun waktu tiga bulan.
 2. Menentukan pendapatan atau income dari seorang influencer sosial media dari jumlah view dan followers
